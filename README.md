@@ -18,7 +18,7 @@ Proyecto final de Testing QA realizado sobre la plataforma **Talento Lab**, una 
 
 ## 📊 Documentación Completa
 
-📄 **[Ver Documentación en Google Sheets](QA: Modelo entrega)**
+📄 Ver documento "Reporte Talento LAB.xlsx"
 
 ## 🏗️ Arquitectura de Testing
 
